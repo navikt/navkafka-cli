@@ -1,0 +1,8 @@
+[package]
+name = "navkafka-cli"
+version = "0.1.0"
+authors = ["Kevin Sillerud <kevin.sillerud@gmail.com>"]
+
+[dependencies]
+ldap3 = "0.6"
+clap = "2"
