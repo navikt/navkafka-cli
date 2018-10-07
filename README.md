@@ -1,4 +1,6 @@
 # navkafka-cli
+[![Build Status](https://travis-ci.org/navikt/navkafka-cli.svg?branch=master)](https://travis-ci.org/navikt/navkafka-cli)
+
 Application to simplify running the local instance of a NAV prod-alike kafka cluster using the [docker-compose 
 project](https://github.com/navikt/navkafka-docker-compose).
 
